@@ -13,7 +13,7 @@ The user can choose between the cities, the month and days.
 
 Afterwards the programm is loading the chosen data set and filters the data in the desired details.
 
-The output includes the following information:
+The output includes the following information for the chosen city, month and day:
 - the most common month
 - the most common day of week
 - the most common start hour
