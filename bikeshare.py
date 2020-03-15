@@ -33,7 +33,7 @@ def get_filters():
     # get user input for month (all, january, february, ... , june)
     month="a"
     while month not in ['all','january', 'february', 'march', 'april', 'may', 'june']:
-        month = input('\nFor which month do you want to see the data? Possible options are: all, january, february, march, april may and june?\n')
+        month = input('\nFor which month do you want to see the data? You can choose between the following options: all, january, february, march, april may and june?\n')
         if month not in ['all','january', 'february', 'march', 'april', 'may', 'june']:
             print("Your input was not a valid one. Please use one of the given options!\n")
 
