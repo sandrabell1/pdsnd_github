@@ -8,7 +8,7 @@ The used files are not being tracked.
 
 
 ###Description
-
+It is an interactiv project.
 The user can choose between the cities, the month and days.
 
 Afterwards the programm is loading the chosen data set and filters the data in the desired details.
