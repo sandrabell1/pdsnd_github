@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Bikeshare Project in Python
 
 It is a interactiv project in Python to analyse date sets about the cities Chicago, New York City and Washington.
@@ -28,3 +29,4 @@ The output includes the following information for the chosen city, month and day
 
 The user can choose if he wants to see more data or not.
 In the end the user can restart the programm or end it.
+=======
